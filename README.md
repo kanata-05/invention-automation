@@ -29,7 +29,7 @@ This repository contains a script designed to automate the installation of Arch 
 Boot into the Arch Linux live environment and download the script using `curl`:
 
 ```bash
-curl -O https://raw.githubusercontent.com/kanata-05/arch-linux-automation/main/install.sh
+curl -O https://raw.githubusercontent.com/kanata-05/invention-automation/main/install.sh
 ```
 
 ### Step 2: Make the Script Executable
